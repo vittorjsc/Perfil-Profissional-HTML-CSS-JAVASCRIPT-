@@ -1,0 +1,65 @@
+
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.6;
+    background-color: darkgray;
+    text-align: center;
+}
+section{
+    margin: 20px;
+    background-color: antiquewhite;
+    border-radius: 40px;
+}
+div.tit{
+    background-color: cadetblue;
+    border-radius: 40px;
+}
+footer {
+    text-align: center;
+    padding: 10px 0;
+    color:black;
+}
+h2{
+    color: rgb(10, 7, 158);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 500%;
+}
+h3{
+    font-size: 250%;
+}
+p{
+    font-style:inherit;
+    font-size: 200%;
+}
+#saudacao{
+    font-size: 200%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:bold;
+    color: rgb(255, 255, 255);
+    line-break:loose;
+}
+input{
+    width: 300px;          /* Largura do input */
+    height: 50px;          /* Altura do input */
+    padding: 10px;         /* Espaçamento interno */
+    font-size: 16px;       /* Tamanho da fonte dentro do input */
+    border-radius: 5px;    /* Borda arredondada */
+    border: 1px solid #ccc;/* Cor da borda */
+    box-sizing: border-box;/* Inclui o padding dentro da largura/altura */
+}
+textarea{
+    width: 400px;          /* Largura do input */
+    height: 50px;          /* Altura do input */
+    padding: 90px;         /* Espaçamento interno */
+    font-size: 30px;       /* Tamanho da fonte dentro do input */
+    border-radius: 5px;    /* Borda arredondada */
+    border: 1px solid #ccc;/* Cor da borda */
+    box-sizing: border-box;/
+}
+button{
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+}
+
+      
