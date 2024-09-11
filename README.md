@@ -1,4 +1,4 @@
-# paginaprofissional
+# Página Profissional (HTML, CSS E JAVASCRIPT)
 Uma página profissional com dados do usuario, projetos de seu portfolio e demais informações.
 Possui intereção com usuario podendo ser feito envio de emails para a conta dona da página.
 Tecnologias utilizadas: HTML, CSS, JAVASCRIPT
